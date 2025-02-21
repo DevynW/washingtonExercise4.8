@@ -3,3 +3,7 @@ Credits
 File - Michelle
 Author -  Mixamo
 Link - https://www.mixamo.com/#/?page=2&type=Character
+
+File - Third Person Controller
+Author -  Unity
+Link - https://assetstore.unity.com/packages/essentials/starter-assets-thirdperson-updates-in-new-charactercontroller-pa-196526
